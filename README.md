@@ -1,7 +1,7 @@
 ☕ Starbucks Beverage Analytics Dashboard
 An interactive Power BI dashboard built to analyze Starbucks beverage data and uncover nutritional insights through dynamic visualizations and filters.
 
-#####Dashboard Highlights
+##### Dashboard Highlights
 *Starbucks-inspired user interface with custom branding.
 *Interactive slicers for real-time data exploration.
 *Image-enhanced visual storytelling.
@@ -10,18 +10,18 @@ An interactive Power BI dashboard built to analyze Starbucks beverage data and u
 
 
 🚀 Features
-####Interactive Filters
+#### Interactive Filters
 *Protein Range Slider
 *Beverage Preparation Type Selection
 *Dynamic filtering for personalized analysis
 
-####KPI Cards
+#### KPI Cards
 *Total Beverage Categories
 *Average Sugar Content
 *Average Calories
 *Average Caffeine Content
 
-####Data Visualizations
+#### Data Visualizations
 *Average Calories by Beverage Category
 *Starbucks Global Beverage Presence Analysis
 *Beverage Category Distribution
